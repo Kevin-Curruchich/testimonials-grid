@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://github.com/Kevin-Curruchich/testimonials-grid)
+- [Live Site URL](https://kevin-curruchich.github.io/testimonials-grid/)
 
 ## My process
 
